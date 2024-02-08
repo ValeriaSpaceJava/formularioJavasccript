@@ -1,0 +1,20 @@
+@media (max-width: 600px){
+    .conteiner-principal{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 30px;
+        height: auto;
+        
+    }
+    .conteudo h1, p{
+        text-align: center;
+        align-items: center;
+        margin-left: -10px;
+    }
+
+    
+    
+
+}
