@@ -11,7 +11,7 @@ body{
 main{
     width: 800px;
     height: 405px;
-    background-image: url("/imagens/bg-repeat.jpg");
+    background-image: url("css/imagens/bg-repeat.jpg");
     background-repeat:repeat-x;
     display: flex;  
     justify-content: center;
