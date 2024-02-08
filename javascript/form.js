@@ -39,7 +39,8 @@ function emailValido(){
     if(emailRegex.test(email.value)){
         console.log('EMAIL VALIDADO');
     }else{
-        console.log('EMAIL NÃO VALIDADO');
+        alert('EMAIL NÃO VALIDADO');
+        email.classList.add('vazio');
     }
 };
 
