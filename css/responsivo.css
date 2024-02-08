@@ -5,7 +5,9 @@
         align-items: center;
         text-align: center;
         padding: 30px;
-        height: auto;
+        height: 100%;
+        width: 650px;
+        
         
     }
     .conteudo h1, p{
