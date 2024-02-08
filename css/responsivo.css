@@ -5,16 +5,17 @@
         align-items: center;
         text-align: center;
         padding: 30px;
-        height: 100%;
-        width: 80vw;
+        height: auto;
+        width: 100vw;
         
         
     }
     .conteudo h1, p{
+        flex-direction: column;
         text-align: center;
         align-items: center;
         margin-left: -10px;
-        width: 80vw;
+        
       
     }
 
