@@ -1,4 +1,4 @@
-@media (max-width: 650px){
+@media (max-width: 768px){
     .conteiner-principal{
         flex-direction: column;
         justify-content: center;
@@ -6,7 +6,7 @@
         text-align: center;
         padding: 30px;
         height: 100%;
-        width: 650px;
+        width: 50vw;
         
         
     }
