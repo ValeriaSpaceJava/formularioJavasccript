@@ -37,6 +37,14 @@
         margin-right: 25px;
         
     }
+    .btn{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        width: 250px;
+        margin-right: 25px;
+    }
+
     
 
 }
